@@ -1,9 +1,9 @@
 const cacheName = "ChatAiHelper-ChatAiHelper-1";
 const contentToCache = [
-    "Build/newbuild.loader.js",
-    "Build/newbuild.framework.js",
-    "Build/newbuild.data",
-    "Build/newbuild.wasm",
+    "Build/newbuild2.loader.js",
+    "Build/newbuild2.framework.js",
+    "Build/newbuild2.data",
+    "Build/newbuild2.wasm",
     "TemplateData/style.css"
 
 ];
